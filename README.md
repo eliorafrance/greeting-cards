@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 >>>>>>> eb13f6b (initial commit)
 
-
+# Ojectives and what i learned
 The project involved creating a React application using Vite for fast and efficient development. The main objectives were to set up a development and implementing react features. Overall, the project enhanced my technical skills and i learnt valuable lessons in collaborative development.
